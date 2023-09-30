@@ -8,12 +8,12 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 This repository is open to all members of the GDSC ALIAH UNIVERSITY community. Any member may contribute to this Repository without being a collaborator.
 
 ## Index of Contents
-- [What is HacktoberFest](what-is-hacktoberfest)
-- [Contribution Instructions](contribution-instructions)
-- [A Basic Example](a-basic-example)
-- [Start Contributing and Pull Request](start-contributing-and-pull-request)
-- [Reference Links](reference-links)
-- [HacktoberFest Rules](hacktoberfest-rules)
+- [What is HacktoberFest](#what-is-hacktoberfest)
+- [Contribution Instructions](#contribution-instructions)
+- [A Basic Example](#a-basic-example)
+- [Start Contributing and Pull Request](#start-contributing-and-pull-request)
+- [Reference Links](#reference-links)
+- [HacktoberFest Rules](#hacktoberfest-rules)
 
 ## What is HacktoberFest?
 
