@@ -149,7 +149,8 @@ Contributions are welcome
 - You can simply update the CONTRIBUTORS.md with the demo example shown above that would also be considered as a contribution
 - If a maintainer reports behavior that`s not in line with projects code of conduct you would be ineligible to participate
 
-A repository/project is considered to be participating in Hacktoberfest is the 'hacktoberfest' topic is present and is accepting public contributions via pull requests.An individual pull request can also be opted-in directly by adding the 'hacktoberfest-accepted' label.
+A repository/project is considered to be participating in Hacktoberfest is the 'hacktoberfest' topic is present and is accepting public contributions via pull requests.
+An individual pull request can also be opted-in directly by adding the 'hacktoberfest-accepted' label.
 
 
 
