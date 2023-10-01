@@ -151,7 +151,7 @@ A repository/project is considered to be participating in Hacktoberfest is the '
 
 An individual pull request can also be opted-in directly by adding the 'hacktoberfest-accepted' label.
 
-## Contributors
+# Contributors
 
 <a href="https://github.com/GDSC-Aliah/Hacktober-Fest-2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=GDSC-Aliah/Hacktober-Fest-2023" />
