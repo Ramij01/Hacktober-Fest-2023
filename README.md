@@ -14,6 +14,7 @@ This repository is open to all members of the GDSC ALIAH UNIVERSITY community. A
 - [Start Contributing and Pull Request](#start-contributing-and-pull-request)
 - [Reference Links](#reference-links)
 - [HacktoberFest Rules](#hacktoberfest-rules)
+- [Contribution Guidlines](CONTRIBUTING.md)
 - [Contributors](https://github.com/GDSC-Aliah/Hacktober-Fest-2023/blob/main/README.md#contributors)
 
 ## What is HacktoberFest?
