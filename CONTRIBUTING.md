@@ -1,10 +1,12 @@
-# Contributing Guidelines for GDSC-Aliah/Hacktober-Fest-2023
+# Contribution Guidelines
 
 Hello and welcome to GDSC-Aliah's Hacktober-Fest-2023 repository! We're excited to have you as a contributor, especially if you're new to open source. We believe in fostering a welcoming and inclusive community for beginners, so here are some simple guidelines to get you started:
 
 ## Getting Started
 1. Fork this repository to your GitHub account.
-2. Clone the forked repository to your local machine.
+2. Add your commits
+3. Open a PR
+4. Wait till acceptance
 
 ## Contribution Process
 1. Add your project to the appropriate category directory in this format: `<category_dir>/<github_username>/`.
